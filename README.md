@@ -1,4 +1,3 @@
-```markdown
 # Ethereum USDT Indexer (扫链系统)
 
 这是一个企业级的以太坊链上数据监控系统。
