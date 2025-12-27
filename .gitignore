@@ -1,0 +1,14 @@
+# 忽略编译文件
+*.exe
+*.dll
+main
+
+# 忽略 IDE 配置
+.idea/
+
+# 忽略系统文件
+.DS_Store
+
+# 如果你有写配置文件的习惯，把这个也加上
+config.yaml
+.env
