@@ -1,6 +1,6 @@
 # Ethereum USDT Indexer (扫链系统)
 
-这是一个企业级的以太坊链上数据监控系统。
+这是一个以太坊链上数据监控系统。
 它通过 WebSocket 实时监听 USDT 合约的转账事件，处理数据精度与去重，并持久化到 PostgreSQL 数据库，最后通过 RESTful API 对外提供查询服务。
 
 ##   核心架构
